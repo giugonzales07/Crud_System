@@ -1,5 +1,5 @@
 # Crud_System
-This simple CRUD-based project is designed to practice Java programming and algorithm implementation. The application simulates a basic company management system.
+This CRUD-based project is designed to practice Java programming and algorithm implementation. The application simulates a basic company management system.
 
 ## Technologies
   <div style="display: inline_block">
